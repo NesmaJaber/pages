@@ -3730,7 +3730,7 @@ input::placeholder {
         height: 778px;
         border-radius: 48px;
         display: flex;
-        background: red;
+        background: #fff;
         flex-direction: column;
         padding: 92.57px 80px;
     }
